@@ -4,6 +4,15 @@ import os
 from dotenv import load_dotenv
 import random
 
+'''
+Start with !r to roll dice. example format: !r 5d6
+
+Rolls a d6 5 times ^^
+
+'''
+
+
+
 token = ''
 
 client = discord.Client()
