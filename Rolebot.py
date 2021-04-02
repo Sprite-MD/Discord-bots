@@ -6,7 +6,7 @@ intents = discord.Intents.default()
 intents.members = True
 
 
-token = 'ODI3NjM5OTY3MTk0NDE1MTI0.YGd9yA.empheV6QASVyccjH80GPySMbfXU'
+token = ''
 
 client = discord.Client(intents = intents)
 
